@@ -1,0 +1,107 @@
+[
+    {
+        "url": "https://www.yahoo.com/",
+        "green": "unknown",
+        "bytes": 1396094,
+        "cleanerThan": 0.62,
+        "statistics": {
+            "adjustedBytes": 1054050.97,
+            "energy": 0.0007951457851566374,
+            "co2": {
+                "grid": {
+                    "grams": 0.35145443703923374,
+                    "litres": 0.19547895788122177
+                },
+                "renewable": {
+                    "grams": 0.30469986487202355,
+                    "litres": 0.16947406484181946
+                }
+            }
+        },
+        "timestamp": 1657062494
+    },
+    {
+        "url": "https://www.ibm.com/us-en/?ar=1",
+        "green": true,
+        "bytes": 3808859,
+        "cleanerThan": 0.31,
+        "statistics": {
+            "adjustedBytes": 2875688.545,
+            "energy": 0.002169336864212528,
+            "co2": {
+                "grid": {
+                    "grams": 0.9588468939819373,
+                    "litres": 0.5333106424327534
+                },
+                "renewable": {
+                    "grams": 0.8312898863662408,
+                    "litres": 0.46236343479690306
+                }
+            }
+        },
+        "timestamp": 1657062527
+    },
+    {
+        "url": "https://roll20.net/",
+        "green": true,
+        "bytes": 13246210,
+        "cleanerThan": 0.06,
+        "statistics": {
+            "adjustedBytes": 10000888.55,
+            "energy": 0.007544383150991054,
+            "co2": {
+                "grid": {
+                    "grams": 3.3346173527380456,
+                    "litres": 1.8547141715929005
+                },
+                "renewable": {
+                    "grams": 2.891007623459772,
+                    "litres": 1.6079784401683248
+                }
+            }
+        },
+        "timestamp": 1657062553
+    },
+    {
+        "url": "https://www.facebook.com/",
+        "green": true,
+        "bytes": 305227,
+        "cleanerThan": 0.94,
+        "statistics": {
+            "adjustedBytes": 230446.385,
+            "energy": 0.00017384213567711414,
+            "co2": {
+                "grid": {
+                    "grams": 0.07683822396928444,
+                    "litres": 0.042737420171716
+                },
+                "renewable": {
+                    "grams": 0.06661630639147013,
+                    "litres": 0.03705198961493568
+                }
+            }
+        },
+        "timestamp": 1657062568
+    },
+    {
+        "url": "https://www.netflix.com/",
+        "green": true,
+        "bytes": 2009012,
+        "cleanerThan": 0.54,
+        "statistics": {
+            "adjustedBytes": 1516804.06,
+            "energy": 0.0011442334285005928,
+            "co2": {
+                "grid": {
+                    "grams": 0.505751175397262,
+                    "litres": 0.28129880375595706
+                },
+                "renewable": {
+                    "grams": 0.43847024980142724,
+                    "litres": 0.24387715293955378
+                }
+            }
+        },
+        "timestamp": 1657062586
+    }
+]
